@@ -11,3 +11,6 @@ and temperature reading and display software in C and x86-64 Assembly.
 - 😀 In my free time I like to work out, play spikeball, take photos, and watch Formula 1.
 - 💬 Ask me about how a super nova can commit election fraud.
 
+
+
+Due to plagarism guidelines I cannot release any code created for course projects on a public reposity. However, if you're viewing my GitHub as a recruiter and would like to see my private portfolio please send me an email at Natestearley@gmail.com.
