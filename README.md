@@ -8,7 +8,7 @@ and temperature reading and display software in C and x86-64 Assembly.
 
 - 🌱 I’m currently learning Python, JavaScript, and Ocamel.
 - 🔭 My favorite computer science class I'm taking right now is Machine Architecture and Organization.
-- 😀 In my free time I like to work out, play spikeball, take photos, and watch Formula 1.
+- 😀 In my free time I like to work out, play spikeball, hike, and try new food.
 - 💬 Ask me about how a super nova can commit election fraud.
 
 
