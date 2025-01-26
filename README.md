@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm a new graduate looking to further my experience in machine learning research and backend development.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natestearley) 
 
